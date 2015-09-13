@@ -1,5 +1,5 @@
 # bibtex-js-apa
-Bibtex parser that automatically populates a div with citations in (approx.) APA format
+Bibtex parser that automatically populates a div with citations in (approx.) APA format. Note that APA format is not perfect, but pretty close. Also, I am planning to add automatic show/hide toggling functionality for the abstract of each reference (if the abstract field of the bibtex citation is filled in).
 
 To use it, put your bibtex references in the "bibtex_input" div within template.html. 
 
